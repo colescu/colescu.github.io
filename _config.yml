@@ -125,7 +125,7 @@ atom_feed:
   path: # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification:
+google_site_verification: ywyD4esGNY1LewbAGHYyqNDkSacXXCfKxCriiy4hmss
 bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
@@ -147,9 +147,9 @@ social:
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id:
+    tracking_id: G-E3Z9T8NJD8
 
 # Reading Files
 include:

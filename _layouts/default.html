@@ -7,6 +7,24 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-E3Z9T8NJD8"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-E3Z9T8NJD8");
+    </script>
+    <meta
+      name="google-site-verification"
+      content="ywyD4esGNY1LewbAGHYyqNDkSacXXCfKxCriiy4hmss"
+    />
     {% include head.html %}
     {% include head/custom.html %}
   </head>
