@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Yuxiao's Homepage"
+title: "Yuxiao Xie"
 title_separator: "-"
 name: &name "Yuxiao Xie"
 description: &description "Yuxiao Xie's Homepage"
