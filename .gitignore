@@ -16,4 +16,4 @@ package-lock.json
 vendor/
 .bundle/
 
-**/draft.md
+TODO.md

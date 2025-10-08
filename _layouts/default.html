@@ -25,6 +25,18 @@ layout: compress
       name="google-site-verification"
       content="ywyD4esGNY1LewbAGHYyqNDkSacXXCfKxCriiy4hmss"
     />
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const host = location.hostname;
+        document.querySelectorAll('a[href]').forEach(a => {
+          const url = a.hostname;
+          if (url && url !== host) {
+            a.target = '_blank';
+            a.rel = 'noopener';
+          }
+        });
+      });
+    </script>
     {% include head.html %}
     {% include head/custom.html %}
   </head>

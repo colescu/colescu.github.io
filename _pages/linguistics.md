@@ -23,9 +23,9 @@ From time to time, I [write](https://www.zhihu.com/people/colescu/answers) and [
 
 ### The Language of My Hometown
 
-I was born and raised in [抚州](https://en.wikipedia.org/wiki/Fuzhou,_Jiangxi) (_fǔzhōu_), a lesser-known city in Southern China (not to be confused with 福州 (_fúzhōu_), the capital of Fujian Province). The local language is a dialect of [Gan Chinese](https://en.wikipedia.org/wiki/Gan_Chinese). It is distinct from other Sinitic languages such as Mandarin or Cantonese. Phylogenetically, it is akin to Hakka.
+I was born and raised in [抚州](https://en.wikipedia.org/wiki/Fuzhou,_Jiangxi) _fǔzhōu_, a lesser-known city in Southern China (not to be confused with 福州 _fúzhōu_, the capital of Fujian Province). The local language is a dialect of [Gan Chinese](https://en.wikipedia.org/wiki/Gan_Chinese). It is distinct from other Sinitic languages such as Mandarin or Cantonese.
 
-Since March 2025, I have been working on a project to record and digitize this language. The results of my work are synthesized on [my website on Fuzhou Gan](https://colescu.github.io/fuzhou-gan/). (Due to the technicality of the matter, it is currently only available in Chinese.)
+Since March 2025, I have been working on a project to record and digitize this language. The results of my work are synthesized on [my website on Fuzhou Gan](https://fudiufa.cn). (Due to the technicality of the matter, it is currently only available in Chinese.)
 
 ### Useful Links
 
