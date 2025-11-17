@@ -11,7 +11,7 @@ I have a broad interest in Differential Geometry. During my undergraduate years,
 
 ## Preprints
 
-- (Joint with Y. Xiao) _Boundary Compactified Imaginary Liouville Theory_, in preparation.
+- (Joint with Y. Xiao) _Boundary Compactified Imaginary Liouville Theory_, [arXiv:2511.11269](https://arxiv.org/abs/2511.11269).
 
 ## Theses
 
