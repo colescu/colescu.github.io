@@ -27,6 +27,7 @@ Here's where you can find me at work:
   91400 Orsay, France
 </address>
 
-<!-- ## News
+## News
 
-- -->
+- **December 2025**: I passed the N1 level (highest level) of the Japanese Language Proficiency Test!
+- **November 2025**: I submitted my first academic paper! It is titled _Boundary Compactified Imaginary Liouville Theory_ and is a collaboration with Yang Xiao at Aix-Marseille Université.

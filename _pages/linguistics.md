@@ -15,6 +15,12 @@ My native languages are Mandarin and [Gan Chinese](https://en.wikipedia.org/wiki
 
 I make it a habit to always learn the local language before visiting a country. So far, the only exception was Slovakia---it was a last-minute decision since I didn't realize you could take a day trip there from Vienna.
 
+Just for fun, I'm planning to get certificates for languages on which I've spent a significant amount of time. My progress so far:
+
+- English: TOEFL iBT - 112/120 (July 2021)
+- Japanese: JLPT N1 - 158/180 (December 2025)
+- French: TBD!
+
 ### Linguistics
 
 I am most interested in historical/comparative linguistics, phonology, and linguistic typology. I know quite a bit about the history of Indo-European languages (probably more than I should), and I wish I had more time to read up on the reconstruction of Old Chinese.
