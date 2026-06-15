@@ -19,7 +19,7 @@ Just for fun, I'm planning to get certificates for languages on which I've spent
 
 - English: TOEFL iBT - 112/120 (July 2021)
 - Japanese: JLPT N1 - 158/180 (December 2025)
-- French: TBD!
+- Spanish & French: TBD!
 
 ### Linguistics
 
@@ -29,14 +29,17 @@ From time to time, I [write](https://www.zhihu.com/people/colescu/answers) and [
 
 ### The Language of My Hometown
 
-I was born and raised in [抚州](https://en.wikipedia.org/wiki/Fuzhou,_Jiangxi) _fǔzhōu_, a lesser-known city in Southern China (not to be confused with 福州 _fúzhōu_, the capital of Fujian Province). The local language is a dialect of [Gan Chinese](https://en.wikipedia.org/wiki/Gan_Chinese). It is distinct from other Sinitic languages such as Mandarin or Cantonese.
+I was born and raised in [抚州](https://en.wikipedia.org/wiki/Fuzhou,_Jiangxi) _fǔzhōu_, a lesser-known city in Jiangxi Province in Southern China (not to be confused with 福州 _fúzhōu_, the capital of Fujian Province). The local language is a dialect of [Gan Chinese](https://en.wikipedia.org/wiki/Gan_Chinese). It is distinct from and mutually unintelligible with other Sinitic languages such as Mandarin or Cantonese.
 
-Since March 2025, I have been working on a project to record and digitize this language. The results of my work are synthesized on [my website on Fuzhou Gan](https://fudiufa.cn). (Due to the technicality of the matter, it is currently only available in Chinese.)
+Since March 2025, I have been working on a project to record and digitize this language. The results of my work are synthesized on my [website on Fuzhou Gan](https://fudiufa.cn). (Due to the technicality of the matter, it is currently only available in Chinese.) As a by-product of this work, a [RIME](https://rime.im)-based [input method for Fuzhou Gan](https://github.com/colescu/rime-fudiufa) is now available.
+
+By the way, here's how you would pronounce my name in Fuzhou Gan (along with my personal romanization): _qiā î-xiāu_ [t͡ɕʰja˨ i˦˥ ɕjaʊ˨].
 
 ### Useful Links
 
 - [World Atlas of Language Structures Online (WALS)](https://wals.info): Database on linguistic typology.
 - [Atlas zur Aussprache des deutschen Gebrauchsstandards (AADG)](https://prowiki.ids-mannheim.de/bin/view/AADG/WebHome): Database on German dialectology.
-- [Centre National de Ressources Textuelles et Lexicales (CNRTL)](https://www.cnrtl.fr): Online dictionary of French, great for looking up etymology.
-- [漢字音典](https://mcpdict.sourceforge.io/cgi-bin/index.py): Compilation of digitized dictionaries of over a thousand varieties of Chinese.
-- [粵語（廣州音）與中古音對應關係](https://ayaka.shn.hk/teoi/): Article that summarizes the phonological correspondence between Mandarin and Cantonese.
+- [Centre National de Ressources Textuelles et Lexicales (CNRTL)](https://www.cnrtl.fr): Online dictionary of French, great for etymological information.
+- [漢字音典](https://github.com/osfans/MCPDict): Compilation of digitized dictionaries of over a thousand varieties of Chinese.
+- [GitHub page of nk2028](https://github.com/nk2028): These folks have authored many open-source online tools on historical Chinese phonology. Check them out!
+- [字統网](https://zi.tools): Website on Chinese characters with features you didn't know you needed.

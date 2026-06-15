@@ -7,11 +7,13 @@ redirect_from:
 author_profile: true
 ---
 
-I have a broad interest in Differential Geometry. During my undergraduate years, I studied Geometric Analysis and Microlocal Analysis. My current research interests lie in the geometric aspects of Conformal Field Theory.
+I have a broad interest in Differential Geometry. During my undergraduate years, I had a taste of Geometric Analysis and Microlocal Analysis. My current research focuses on the geometric aspects of Conformal Field Theory, in particular its connections with Teichmüller theory.
+
+Over the past decade, major breakthroughs have been made on the mathematical formulation of Quantum Field Theory (of which Conformal Field Theory is a special case) via probabilistic methods. This progress has brought together ideas from probability, geometry, algebra, and mathematical physics, and is the subject of the [Simons Collaboration on Probabilistic Paths to Quantum Field Theory](https://probabilistic-qft.org). Within this collaboration, I work with probabilists and study the geometric aspects of the problems.
 
 ## Preprints
 
-- (Joint with Y. Xiao) _Boundary Compactified Imaginary Liouville Theory_, [arXiv:2511.11269](https://arxiv.org/abs/2511.11269).
+- (Joint with Yang Xiao) _Boundary Compactified Imaginary Liouville Theory_, [arXiv:2511.11269](https://arxiv.org/abs/2511.11269).
 
 ## Theses
 
@@ -38,6 +40,7 @@ I have a broad interest in Differential Geometry. During my undergraduate years,
 
 ## Attended Conferences
 
+- **June 2026**: I attended the [Peking Summer Program in Probability: Interaction with QFT](http://faculty.bicmr.pku.edu.cn/~xinsun/program2026.html) at Peking University.
 - **August 2025**: I attended the conference [Intersections of Topological Recursion, Conformal Field Theory, and Random Geometry](https://indico.global/event/9647/) at the SwissMAP Research Station (SRS) in Les Diablerets.
 - **May--June 2025**: I attended the [Trimester Program: Probabilistic Methods in Quantum Field Theory](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/probalilistic-methods-in-quantum-field-theory) at the Hausdorff Research Institute for Mathematics (HIM) at Universität Bonn.
 - **November 2024**: I attended the workshop [Probabilistic Methods in Conformal Field Theory](https://conferences.cirm-math.fr/3505.html) at the Centre International de Rencontres Mathématiques (CIRM) at Aix-Marseille Université.
