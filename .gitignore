@@ -2,8 +2,13 @@
 _site/
 .sass-cache/
 
-# Ignore the directory for local files during development
+# Local previews and downloaded map source files
 local/
+
+# Python caches and local environments used by map generation
+__pycache__/
+*.py[cod]
+.venv/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock

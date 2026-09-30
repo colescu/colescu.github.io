@@ -1,0 +1,54 @@
+- city: Fuzhou
+  region: Jiangxi
+  country: China
+  latitude: 27.9490
+  longitude: 116.3580
+  hometown: true
+- city: Beijing
+  country: China
+  latitude: 39.9042
+  longitude: 116.4074
+  duration: 3 years
+  months: 36
+- city: Shanghai
+  country: China
+  latitude: 31.2304
+  longitude: 121.4737
+  duration: 1 month
+  months: 1
+- city: Paris
+  country: France
+  latitude: 48.8566
+  longitude: 2.3522
+  duration: 4 years
+  months: 48
+- city: Munich
+  country: Germany
+  latitude: 48.1351
+  longitude: 11.5820
+  duration: 1 year
+  months: 12
+- city: Bonn
+  country: Germany
+  latitude: 50.7351
+  longitude: 7.0992
+  duration: 2 months
+  months: 2
+- city: Athens
+  country: Greece
+  latitude: 37.9838
+  longitude: 23.7275
+  duration: 1 month
+  months: 1
+- city: London
+  country: United Kingdom
+  latitude: 51.5074
+  longitude: -0.1278
+  duration: 1 month
+  months: 1
+- city: New York
+  country: United States
+  latitude: 40.7128
+  longitude: -74.0060
+  duration: 1 month
+  months: 1

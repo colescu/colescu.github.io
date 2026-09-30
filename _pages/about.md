@@ -18,7 +18,7 @@ Here's how you would write and pronounce my name in Chinese:
 - 潇 _xiāo_ [ɕjaʊ˥], where _x_ is pronounced like English _sh_.
 - 谢 _xiè_ [ɕjɛ˥˩], same remark on _x_.
 
-Here's where you can find me at work:
+Here's where you might find me at work:
 
 <address style="margin-left: 2em">
   Bureau 2D20<br />

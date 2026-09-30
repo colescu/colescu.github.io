@@ -7,7 +7,7 @@ redirect_from:
 author_profile: true
 ---
 
-I have a broad interest in Differential Geometry. During my undergraduate years, I had a taste of Geometric Analysis and Microlocal Analysis. My current research focuses on the geometric aspects of Conformal Field Theory, in particular its connections with Teichmüller theory.
+I have a broad interest in Differential Geometry. During my undergraduate years, I had a taste of Geometric Analysis and Microlocal Analysis. My current research focuses on the geometric aspects of Conformal Field Theory, in particular its connections with Teichmüller Theory.
 
 Over the past decade, major breakthroughs have been made on the mathematical formulation of Quantum Field Theory (of which Conformal Field Theory is a special case) via probabilistic methods. This progress has brought together ideas from probability, geometry, algebra, and mathematical physics, and is the subject of the [Simons Collaboration on Probabilistic Paths to Quantum Field Theory](https://probabilistic-qft.org). Within this collaboration, I work with probabilists and study the geometric aspects of the problems.
 

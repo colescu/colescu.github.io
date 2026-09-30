@@ -1,0 +1,105 @@
+# Whole-country shading for places whose subdivisions have not been specified yet.
+countries: []
+
+# To narrow another country, list its visited states, regions, cantons, or
+# prefectures here. City names have been mapped to their larger subdivisions.
+regions:
+  # Mainland China: all 31 province-level divisions except Chongqing,
+  # Heilongjiang, Jilin, Liaoning, Sichuan, Tianjin, and Tibet.
+  # Hong Kong, Macau, and Taiwan are also intentionally unshaded.
+  China:
+    - Anhui
+    - Beijing
+    - Fujian
+    - Gansu
+    - Guangdong
+    - Guangxi
+    - Guizhou
+    - Hainan
+    - Hebei
+    - Henan
+    - Hubei
+    - Hunan
+    - Inner Mongolia
+    - Jiangsu
+    - Jiangxi
+    - Ningxia
+    - Qinghai
+    - Shaanxi
+    - Shandong
+    - Shanghai
+    - Shanxi
+    - Xinjiang
+    - Yunnan
+    - Zhejiang
+  Spain:
+    - Andalucía
+    - Cataluña
+    - Madrid
+  United Kingdom:
+    - Greater London
+    - Oxfordshire
+    - Cambridgeshire
+  France:
+    - Île-de-France          # Paris
+    - Bretagne
+    - Provence-Alpes-Côte-d'Azur  # Marseille
+  Switzerland:
+    - Vaud                   # Lausanne area
+  Austria:
+    - Vienna
+  Germany:
+    - Bavaria
+    - North Rhine-Westphalia # Bonn
+    - Baden-Württemberg      # Stuttgart
+    - Hesse                  # Frankfurt am Main
+  Greece:
+    - Attica                 # Athens
+    - Central Macedonia      # Thessaloniki
+    - Thessalia              # Meteora monasteries near Kalambaka
+    - Central Greece          # Delphi
+  Japan:
+    - Osaka
+    - Nara
+    - Kyoto
+    - Tokyo
+    - Kanagawa               # Kawasaki, Yokohama, Kamakura
+
+# Remove detached islands included in a visited mainland region by its
+# administrative boundary. Coordinates identify the island polygon to remove.
+region_exclusions:
+  Greece:
+    Attica:
+      - name: Kythira
+        point: [23.0, 36.26]
+      - name: Antikythera
+        point: [23.31, 35.87]
+
+# Smaller administrative areas where a whole region would overstate the visit.
+regional_units:
+  Greece:
+    - name: Messinia          # Messini and Voidokilia Beach
+      object_id: '44'
+    - name: Argolida          # Mycenae, Epidaurus, and Nafplion
+      object_id: '41'
+
+# Specific city boundaries where a whole state would overstate the visit.
+# Census GEOIDs make similarly named cities unambiguous.
+places:
+  Greece:
+    - name: Corinth
+      municipal_unit_id: '680'
+  Austria:
+    - name: Salzburg
+      municipality_id: '50101'
+  Slovakia:
+    - name: Bratislava
+      municipality_prefix: Bratislava-
+      expected_parts: 17
+  United States:
+    - name: New York City
+      state: NY
+      geoid: '3651000'
+    - name: Princeton
+      state: NJ
+      geoid: '3460900'
