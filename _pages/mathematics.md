@@ -13,14 +13,13 @@ Over the past decade, major breakthroughs have been made on the mathematical for
 
 ## Preprints
 
+- (Joint with [Guillaume Baverez](https://sites.google.com/view/guillaume-baverez/home), [Colin Guillarmou](https://www.imo.universite-paris-saclay.fr/~colin.guillarmou/), [Antti Kupiainen](https://researchportal.helsinki.fi/en/persons/antti-kupiainen/), and [Rémi Rhodes](https://www.i2m.univ-amu.fr/perso/remi.rhodes/CV.html)) _Virasoro Conformal Blocks and modular functor from Liouville CFT_, [arXiv:2610.03540](https://arxiv.org/abs/2610.03540).
 - (Joint with Yang Xiao) _Boundary Compactified Imaginary Liouville Theory_, [arXiv:2511.11269](https://arxiv.org/abs/2511.11269).
 
 ## Theses
 
 - Master's thesis (supervised by [Colin Guillarmou](https://www.imo.universite-paris-saclay.fr/~colin.guillarmou/)): _Teichmüller space and Weil–Petersson potentials_.
 - Bachelor's thesis (supervised by [Long Jin](https://sites.google.com/view/longjinswebpage/home)): _The Selberg zeta function of a convex cocompact hyperbolic surface_ (in Chinese).
-
-<!-- ## Survey articles -->
 
 ## Talks
 
@@ -44,3 +43,7 @@ Over the past decade, major breakthroughs have been made on the mathematical for
 - **August 2025**: I attended the conference [Intersections of Topological Recursion, Conformal Field Theory, and Random Geometry](https://indico.global/event/9647/) at the SwissMAP Research Station (SRS) in Les Diablerets.
 - **May--June 2025**: I attended the [Trimester Program: Probabilistic Methods in Quantum Field Theory](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/probalilistic-methods-in-quantum-field-theory) at the Hausdorff Research Institute for Mathematics (HIM) at Universität Bonn.
 - **November 2024**: I attended the workshop [Probabilistic Methods in Conformal Field Theory](https://conferences.cirm-math.fr/3505.html) at the Centre International de Rencontres Mathématiques (CIRM) at Aix-Marseille Université.
+
+## Trivia
+
+My avatar is taken from the cover of [_Analysis I_ by Herbert Amann and Joachim Escher](https://link.springer.com/book/10.1007/b137107). In 2017, I started out learning college-level mathematics through _Thomas' Calculus_, but shortly afterwards I stumbled upon this introductory text on mathematical analysis, and it was not long before I was struck with awe by how modern mathematics manages to express the same theory in such compact and elegant language. The book quickly became my favorite, and I started using its cover—a weirdly cute cat-looking illustration of metric spaces—as my avatar online.

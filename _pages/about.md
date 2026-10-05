@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to my homepage
 
-Hi, I am a second-year PhD student in Mathematics at the [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr) at Université Paris-Saclay. I work on the mathematical aspects of Conformal Field Theory. My advisor is [Colin Guillarmou](https://www.imo.universite-paris-saclay.fr/~colin.guillarmou/), and I am funded by the [Fondation CFM pour la Recherche](https://www.fondation-cfm.org). Prior to this, I obtained my Master's degree at the École normale supérieure (Ulm) and my Bachelor's degree at Tsinghua University.
+Hi, I am a third-year PhD student in Mathematics at the [Laboratoire de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr) at Université Paris-Saclay. I work on the mathematical aspects of Conformal Field Theory. My advisor is [Colin Guillarmou](https://www.imo.universite-paris-saclay.fr/~colin.guillarmou/), and I am funded by the [Fondation CFM pour la Recherche](https://www.fondation-cfm.org). Prior to this, I obtained my Master's degree at the École normale supérieure (Ulm) and my Bachelor's degree at Tsinghua University.
 
 Here's how you would write and pronounce my name in Chinese:
 
@@ -26,8 +26,3 @@ Here's where you might find me at work:
   Bâtiment 307, rue Michel Magat<br />
   91400 Orsay, France
 </address>
-
-## News
-
-- **December 2025**: I passed the N1 level (highest level) of the Japanese Language Proficiency Test!
-- **November 2025**: I submitted my first academic paper! It is titled _Boundary Compactified Imaginary Liouville Theory_ and is a collaboration with Yang Xiao at Aix-Marseille Université.

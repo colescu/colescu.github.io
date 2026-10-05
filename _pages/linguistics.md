@@ -7,6 +7,12 @@ redirect_from:
 author_profile: true
 ---
 
+<style>
+blockquote {
+  font-style: normal;
+}
+</style>
+
 I enjoy learning about languages and linguistics. Had things turned out differently, I might as well have become a professional linguist.
 
 ### Language Learning
@@ -34,6 +40,18 @@ I was born and raised in [抚州](https://en.wikipedia.org/wiki/Fuzhou,_Jiangxi)
 Since March 2025, I have been working on a project to record and digitize this language. The results of my work are synthesized on my [website on Fuzhou Gan](https://fudiufa.cn). (Due to the technicality of the matter, it is currently only available in Chinese.) As a by-product of this work, a [RIME](https://rime.im)-based [input method for Fuzhou Gan](https://github.com/colescu/rime-fudiufa) is now available.
 
 By the way, here's how you would pronounce my name in Fuzhou Gan (along with my personal romanization): _qiā î-xiāu_ [t͡ɕʰja˨ i˦˥ ɕjaʊ˨].
+
+### Sinophonic and Sino-Xenic Readings of My Name
+
+Here's a compilation of the various readings of my name:
+
+> Beijing Mandarin --- xiè yǔ-xiāo [ɕjɛ˥˩ y˨˩-ɕjaʊ˥]  
+> Fuzhou Gan --- qiā î-xiāu [t͡ɕʰja˨ i˦˥-ɕjaʊ˨]  
+> Guangzhou Cantonese --- ze6 jyu5-siu1 [t͡sɛː˨ jyː˩˧-siːʊ˥]  
+> Shanghai Wu --- zhia6 yu6-shiau1 [ʑja˨˧ ɦy˨˧-ɕjɔ˥˧]  
+> Japanese (_kan-on_) --- シャ ウ-ショウ [ɕja ɯ-ɕjoː]  
+> Korean --- 사 우소 [sʰa u-sʰo]  
+> Vietnamese --- Tạ Vũ Tiêu [ta˧ˀ˩ vu˧ˀ˥-tiə̯ʊ˧]
 
 ### Useful Links
 
