@@ -13,6 +13,7 @@ Over the past decade, major breakthroughs have been made on the mathematical for
 
 ## Preprints
 
+- (Joint with Yang Xiao) _Segal's semigroup, Virasoro structure, and Ward identities in Compactified Imaginary Liouville Theory_, [arXiv:2610.22170](https://arxiv.org/abs/2610.22170).
 - (Joint with [Guillaume Baverez](https://sites.google.com/view/guillaume-baverez/home), [Colin Guillarmou](https://www.imo.universite-paris-saclay.fr/~colin.guillarmou/), [Antti Kupiainen](https://researchportal.helsinki.fi/en/persons/antti-kupiainen/), and [Rémi Rhodes](https://www.i2m.univ-amu.fr/perso/remi.rhodes/CV.html)) _Virasoro Conformal Blocks and modular functor from Liouville CFT_, [arXiv:2610.03540](https://arxiv.org/abs/2610.03540).
 - (Joint with Yang Xiao) _Boundary Compactified Imaginary Liouville Theory_, [arXiv:2511.11269](https://arxiv.org/abs/2511.11269).
 

@@ -48,6 +48,8 @@ regions:
     - Vaud                   # Lausanne area
   Austria:
     - Vienna
+  Italy:
+    - Campania               # Naples
   Germany:
     - Bavaria
     - North Rhine-Westphalia # Bonn
