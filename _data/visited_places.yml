@@ -51,6 +51,7 @@ regions:
   Italy:
     - Campania               # Naples
   Germany:
+    - Hamburg
     - Bavaria
     - North Rhine-Westphalia # Bonn
     - Baden-Württemberg      # Stuttgart

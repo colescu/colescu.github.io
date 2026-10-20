@@ -28,6 +28,16 @@ if (mapElement && dataElement) {
     const map = new maplibregl.Map({
       container: mapElement,
       style: mapElement.dataset.styleUrl,
+      transformRequest(url) {
+        const resourceUrl = new URL(url, window.location.href);
+        if (resourceUrl.origin === window.location.origin &&
+            resourceUrl.pathname.includes('/assets/data/') &&
+            mapElement.dataset.mapVersion) {
+          resourceUrl.searchParams.set('v', mapElement.dataset.mapVersion);
+          return { url: resourceUrl.href };
+        }
+        return { url };
+      },
       center: [20, 40],
       zoom: 2,
       attributionControl: { compact: true },
